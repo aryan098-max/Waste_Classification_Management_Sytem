@@ -27,10 +27,10 @@ Improper waste management poses risks to both human health and the environment, 
 ## Usage and features
 
 
-•  Waste Classification: The system uses a Convolutional Neural Network (CNN) algorithm to classify different types of waste. Users can upload an image of the waste through the web interface, and the system will identify the material and provide information on suitable recycling methods.
-•  Waste Detection: The system includes waste detection capabilities using OpenCV or other computer vision libraries. It can identify waste materials in real-time using a webcam or video stream.
-•  Recycling Methods: The system provides information on proper recycling methods for each waste type. This includes details on local recycling facilities or programs and guidelines for preparing the waste for recycling.
-•  Waste Reporting: The system features a notification system that allows users to report waste to the relevant authorities. With just a few clicks, users can send an email with an attached image and location details. This promotes community involvement in waste management and supports a cleaner environment.
+1.  Waste Classification: The system uses a Convolutional Neural Network (CNN) algorithm to classify different types of waste. Users can upload an image of the waste through the web interface, and the system will identify the material and provide information on suitable recycling methods.
+2.  Waste Detection: The system includes waste detection capabilities using OpenCV or other computer vision libraries. It can identify waste materials in real-time using a webcam or video stream.
+3.  Recycling Methods: The system provides information on proper recycling methods for each waste type. This includes details on local recycling facilities or programs and guidelines for preparing the waste for recycling.
+4.  Waste Reporting: The system features a notification system that allows users to report waste to the relevant authorities. With just a few clicks, users can send an email with an attached image and location details. This promotes community involvement in waste management and supports a cleaner environment.
 
 
 
@@ -77,8 +77,8 @@ Test the system: To test the waste management system, you can upload an image of
 
 ## Future development
 
-•  Enhanced Waste Detection: Future development could focus on boosting the accuracy and efficiency of waste detection using advanced AI techniques like deep learning and neural networks. This may involve training the system with a larger dataset of waste images, utilizing more sophisticated CNN architectures, and incorporating real-time object recognition and tracking.
-•  Mobile App Integration: Developing a mobile app could be another key area for improvement. Users would be able to report waste and receive notifications about local waste management activities. Features like geolocation tracking, real-time updates, and social media integration could enhance user engagement.
-•  Waste Recycling Guidance: Providing more detailed information and guidance on recycling different waste types is another area for future development. This could include creating a database of recycling centers, offering tips on recycling various materials, and introducing a reward system to encourage users to recycle more.
-•  Data Analytics: Developing a comprehensive data analytics platform is also a potential improvement. This platform would offer insights into waste generation, disposal, and recycling patterns at different levels. By using big data analytics, machine learning, and data visualization, it would help identify trends and guide waste management policies and strategies.
+1.  Enhanced Waste Detection: Future development could focus on boosting the accuracy and efficiency of waste detection using advanced AI techniques like deep learning and neural networks. This may involve training the system with a larger dataset of waste images, utilizing more sophisticated CNN architectures, and incorporating real-time object recognition and tracking.
+2.  Mobile App Integration: Developing a mobile app could be another key area for improvement. Users would be able to report waste and receive notifications about local waste management activities. Features like geolocation tracking, real-time updates, and social media integration could enhance user engagement.
+3.  Waste Recycling Guidance: Providing more detailed information and guidance on recycling different waste types is another area for future development. This could include creating a database of recycling centers, offering tips on recycling various materials, and introducing a reward system to encourage users to recycle more.
+4.  Data Analytics: Developing a comprehensive data analytics platform is also a potential improvement. This platform would offer insights into waste generation, disposal, and recycling patterns at different levels. By using big data analytics, machine learning, and data visualization, it would help identify trends and guide waste management policies and strategies.
 
