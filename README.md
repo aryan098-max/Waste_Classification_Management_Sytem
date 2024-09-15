@@ -76,6 +76,3 @@ Test the system: To test the waste management system, you can upload an image of
 - Mobile App Integration: Another area for future development could be to develop a mobile app that users can use to report waste material and receive notifications about waste management activities in their area. This could include features such as geolocation tracking, real-time updates, and social media integration.
 - Waste Recycling: A third area for future development could be to provide more detailed information and guidance on recycling different types of waste material. This could include developing a database of recycling centers and facilities, providing tips on how to recycle different materials, and integrating a reward system to incentivize users to recycle more.
 - Data Analytics: Finally, another area for future development could be to develop a more advanced data analytics platform that can provide insights into waste generation, disposal, and recycling patterns at the local, regional, and national levels. This could involve using big data analytics, machine learning, and data visualization techniques to identify trends and patterns, and inform waste management policies and strategies.
-
-## Deployment
-[App Link](https://sandy252-waste-recognition-management-system-app-sgtepq.streamlit.app/)
