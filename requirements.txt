@@ -56,7 +56,6 @@ packaging
 pandas
 Pillow
 pkgutil_resolve_name
-playsound
 protobuf
 pyarrow
 pyasn1
