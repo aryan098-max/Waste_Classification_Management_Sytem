@@ -25,6 +25,7 @@ flatbuffers
 fonttools
 gast
 gitdb
+playsound
 GitPython
 google-auth
 google-auth-oauthlib
