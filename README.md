@@ -36,7 +36,7 @@ Improper waste management poses risks to both human health and the environment, 
 
 ## Demo Video
 
-
+https://github.com/user-attachments/assets/ea74d520-c106-4d50-aadb-c1928b127cc7
 
 
 
