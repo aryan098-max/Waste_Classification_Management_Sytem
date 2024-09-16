@@ -82,3 +82,7 @@ Test the system: To test the waste management system, you can upload an image of
 3.  Waste Recycling Guidance: Providing more detailed information and guidance on recycling different waste types is another area for future development. This could include creating a database of recycling centers, offering tips on recycling various materials, and introducing a reward system to encourage users to recycle more.
 4.  Data Analytics: Developing a comprehensive data analytics platform is also a potential improvement. This platform would offer insights into waste generation, disposal, and recycling patterns at different levels. By using big data analytics, machine learning, and data visualization, it would help identify trends and guide waste management policies and strategies.
 
+
+## For support mail to 
+aryangupta4279@gmail.com
+
